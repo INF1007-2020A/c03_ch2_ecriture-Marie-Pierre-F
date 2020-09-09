@@ -8,7 +8,7 @@ def majuscule(mot):
         asci = asci + 32
         ord(asci)
         resultat += lettre
-    return mot
+    return resultat
 
 
 if __name__ == '__main__':
